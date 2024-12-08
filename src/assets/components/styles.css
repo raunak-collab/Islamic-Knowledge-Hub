@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap');
+
+/* Define the Arabic font style */
+.arabic-font {
+    font-family: 'Amiri', serif; /* Use an Islamic-inspired font */
+    font-weight: 700; /* Bold for headings */
+}
+
+/* Optional: Add a subtle background pattern for the page */
+body {
+    background-image: url('/img/background-pattern.png'); /* Path to a subtle Islamic pattern */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
